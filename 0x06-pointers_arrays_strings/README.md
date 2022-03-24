@@ -1,1 +1,1 @@
-My FIRST README file
+This is all about learning strings, arrays and pointers
