@@ -1,1 +1,1 @@
-Even more about arrays end strings 
+This is about learning even more on arrays, pointer and strings
