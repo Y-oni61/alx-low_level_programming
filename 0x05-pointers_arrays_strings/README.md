@@ -1,1 +1,1 @@
-0x05-pointers_arrays_strings alx projext 
+0x05-pointers_arrays_strings alx project
