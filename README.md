@@ -1,1 +1,1 @@
-0x07-pointers_arrays_strings Alx Project
+This is the readme file for this task
